@@ -1,0 +1,563 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  18 DEC 2015 17:37
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Accelerating_Searches_for_Binary_Pulsars.tex
+(./Accelerating_Searches_for_Binary_Pulsars.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/aastex/aastex.cls
+Document Class: aastex 2005/06/22 5.2/AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 83.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box26
+\c@editornote=\count89
+\c@cureqno=\count90
+\tnotemarkskip=\skip45
+\@abovenoteskip=\dimen106
+\pt@box=\box27
+\pt@width=\dimen107
+\pt@line=\count91
+\pt@column=\count92
+\pt@nlines=\count93
+\pt@ncol=\count94
+\pt@page=\count95
+\tabbaseskip=\dimen108
+\pt@tmpcapwidth=\dimen109
+\spew@tblnotesbox=\box28
+\restof@tblnotesbox=\box29
+\noteheight=\dimen110
+\pt@tabnoteminht=\dimen111
+\firsttabskip=\dimen112
+\captionbox=\box30
+\pt@reduceline=\dimen113
+\extra@vspace=\dimen114
+\c@plate=\count96
+\my@footins=\box31
+)
+No file Accelerating_Searches_for_Binary_Pulsars.aux.
+\openout1 = `Accelerating_Searches_for_Binary_Pulsars.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen115
+\scratchbox=\box32
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen116
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+AAS 2-column preprint substyle, v5.2 <12 Dec 2003>.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 32.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+
+Package natbib Warning: Citation `tay89' on page 1 undefined on input line 41.
+
+
+Package natbib Warning: Citation `hew68' on page 1 undefined on input line 42.
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 39--51
+[]\OT1/cmr/m/n/10 Pulsars are rec-og-nized as ro-tat-ing neu-tron
+ []
+
+
+Package natbib Warning: Citation `mid84' on page 1 undefined on input line 53.
+
+[1{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Overfull \hbox (21.02536pt too wide) in alignment at lines 102--107
+ [][][] []
+ []
+
+
+Package natbib Warning: Citation `eat09' on page 2 undefined on input line 122.
+
+
+
+Package natbib Warning: Citation `ran03' on page 2 undefined on input line 129.
+
+
+
+Underfull \hbox (badness 1496) in paragraph at lines 150--154
+[]\OT1/cmr/m/n/10 Correlations used in the Fourier-domain
+ []
+
+
+Package natbib Warning: Citation `ran02' on page 2 undefined on input line 160.
+
+
+[2]
+Underfull \hbox (badness 3019) in paragraph at lines 196--196
+[]\OT1/cmr/bx/n/10 CUDA im-ple-men-ta-tion for Fourier-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[][]\OT1/cmr/m/n/8 Our code is avail-able at:
+ []
+
+
+LaTeX Warning: Reference `fig:blkgram' on page 3 undefined on input line 199.
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 198--201
+\OT1/cmr/m/n/10 im-ple-mented the Fourier-domain ac-cel-er-a-tion
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 204--205
+[]\OT1/cmr/m/n/10 Transform the cor-re-la-tion ker-nels us-ing
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 209--210
+[]\OT1/cmr/m/n/10 Run can-di-dates search us-ing a spe-cific
+ []
+
+[3]
+
+Package natbib Warning: Citation `joh91' on page 4 undefined on input line 259.
+
+
+[4]
+
+LaTeX Warning: Reference `tbl-machine' on page 5 undefined on input line 301.
+
+
+LaTeX Warning: Reference `tbl-simupara' on page 5 undefined on input line 305.
+
+
+LaTeX Warning: Reference `fig:runtime' on page 5 undefined on input line 308.
+
+
+LaTeX Warning: Reference `fig:runtime' on page 5 undefined on input line 310.
+
+
+LaTeX Warning: Reference `fig:numharm_effect' on page 5 undefined on input line
+ 314.
+
+
+LaTeX Warning: Reference `fig:numharm_effect' on page 5 undefined on input line
+ 318.
+
+
+LaTeX Warning: Reference `fig:Terzan5_8_harm' on page 5 undefined on input line
+ 333.
+
+
+LaTeX Warning: Reference `fig:numharm_effect' on page 5 undefined on input line
+ 334.
+
+
+LaTeX Warning: Reference `fig:Terzan5_8_harm' on page 5 undefined on input line
+ 335.
+
+
+Overfull \hbox (4.70322pt too wide) in paragraph at lines 350--351
+[]\OT1/cmr/m/n/10 Smaller $\OML/cmm/m/it/10 numharm$ \OT1/cmr/m/n/10 re-sponds 
+to larger speedup
+ []
+
+[5]
+Package epstopdf Info: Source file: <fig/accelsearch_diagram.eps>
+(epstopdf)                    date: 2015-03-04 17:55:25
+(epstopdf)                    size: 235096 bytes
+(epstopdf)             Output file: <fig/accelsearch_diagram-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-03-04 17:55:31
+(epstopdf)                    size: 74886 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/accelsearch_diagram-ep
+s-converted-to.pdf fig/accelsearch_diagram.eps>
+(epstopdf)             \includegraphics on input line 366.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/accelsearch_diagram-eps-converted-to.pdf, id=37, 419.5675pt x 517.935pt>
+File: fig/accelsearch_diagram-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig/accelsearch_diagram-eps-converted-to.pdf>
+Package pdftex.def Info: fig/accelsearch_diagram-eps-converted-to.pdf used on i
+nput line 366.
+(pdftex.def)             Requested size: 419.56647pt x 517.93372pt.
+
+Overfull \hbox (18.06839pt too wide) in paragraph at lines 366--367
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <fig/makalu_runtime_overview_1_harm.eps>
+(epstopdf)                    date: 2015-02-27 15:29:52
+(epstopdf)                    size: 48770 bytes
+(epstopdf)             Output file: <fig/makalu_runtime_overview_1_harm-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2015-02-27 15:30:20
+(epstopdf)                    size: 23834 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/makalu_runtime_overvie
+w_1_harm-eps-converted-to.pdf fig/makalu_runtime_overview_1_harm.eps>
+(epstopdf)             \includegraphics on input line 374.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/makalu_runtime_overview_1_harm-eps-converted-to.pdf, id=38, 578.16pt x 433
+.62pt>
+File: fig/makalu_runtime_overview_1_harm-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use fig/makalu_runtime_overview_1_harm-eps-converted-to.pdf>
+Package pdftex.def Info: fig/makalu_runtime_overview_1_harm-eps-converted-to.pd
+f used on input line 374.
+(pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
+Package epstopdf Info: Source file: <fig/makalu_runtime_overview_16_harm.eps>
+(epstopdf)                    date: 2015-02-27 15:29:52
+(epstopdf)                    size: 48769 bytes
+(epstopdf)             Output file: <fig/makalu_runtime_overview_16_harm-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2015-02-27 15:30:20
+(epstopdf)                    size: 23824 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/makalu_runtime_overvie
+w_16_harm-eps-converted-to.pdf fig/makalu_runtime_overview_16_harm.eps>
+(epstopdf)             \includegraphics on input line 379.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/makalu_runtime_overview_16_harm-eps-converted-to.pdf, id=39, 578.16pt x 43
+3.62pt>
+File: fig/makalu_runtime_overview_16_harm-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use fig/makalu_runtime_overview_16_harm-eps-converted-to.pdf>
+Package pdftex.def Info: fig/makalu_runtime_overview_16_harm-eps-converted-to.p
+df used on input line 379.
+(pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 373--382
+ [][] 
+ []
+
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 373--382
+ [] 
+ []
+
+Package epstopdf Info: Source file: <fig/makalu_speed_up.eps>
+(epstopdf)                    date: 2015-02-27 15:29:52
+(epstopdf)                    size: 37747 bytes
+(epstopdf)             Output file: <fig/makalu_speed_up-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-27 15:30:21
+(epstopdf)                    size: 21885 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/makalu_speed_up-eps-co
+nverted-to.pdf fig/makalu_speed_up.eps>
+(epstopdf)             \includegraphics on input line 390.
+Package epstopdf Info: Output file is already uptodate.
+<fig/makalu_speed_up-eps-converted-to.pdf, id=40, 578.16pt x 433.62pt>
+File: fig/makalu_speed_up-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig/makalu_speed_up-eps-converted-to.pdf>
+Package pdftex.def Info: fig/makalu_speed_up-eps-converted-to.pdf used on input
+ line 390.
+(pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
+Package epstopdf Info: Source file: <fig/zuul05_speed_up.eps>
+(epstopdf)                    date: 2015-02-27 15:29:52
+(epstopdf)                    size: 37843 bytes
+(epstopdf)             Output file: <fig/zuul05_speed_up-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-02-27 15:30:22
+(epstopdf)                    size: 21896 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/zuul05_speed_up-eps-co
+nverted-to.pdf fig/zuul05_speed_up.eps>
+(epstopdf)             \includegraphics on input line 395.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/zuul05_speed_up-eps-converted-to.pdf, id=41, 578.16pt x 433.62pt>
+File: fig/zuul05_speed_up-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig/zuul05_speed_up-eps-converted-to.pdf>
+Package pdftex.def Info: fig/zuul05_speed_up-eps-converted-to.pdf used on input
+ line 395.
+(pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
+Package epstopdf Info: Source file: <fig/sh_machine_speed_up.eps>
+(epstopdf)                    date: 2015-02-27 15:29:52
+(epstopdf)                    size: 39477 bytes
+(epstopdf)             Output file: <fig/sh_machine_speed_up-eps-converted-to.p
+df>
+(epstopdf)                    date: 2015-02-27 15:30:22
+(epstopdf)                    size: 21987 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/sh_machine_speed_up-ep
+s-converted-to.pdf fig/sh_machine_speed_up.eps>
+(epstopdf)             \includegraphics on input line 400.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/sh_machine_speed_up-eps-converted-to.pdf, id=42, 578.16pt x 433.62pt>
+File: fig/sh_machine_speed_up-eps-converted-to.pdf Graphic file (type pdf)
+
+<use fig/sh_machine_speed_up-eps-converted-to.pdf>
+Package pdftex.def Info: fig/sh_machine_speed_up-eps-converted-to.pdf used on i
+nput line 400.
+(pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 389--403
+ [][] 
+ []
+
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 389--403
+ [] 
+ []
+
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 389--403
+ [] 
+ []
+
+Package epstopdf Info: Source file: <fig/Terzan5_s000m_8_harm_makalu.eps>
+(epstopdf)                    date: 2015-02-27 15:29:52
+(epstopdf)                    size: 44414 bytes
+(epstopdf)             Output file: <fig/Terzan5_s000m_8_harm_makalu-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2015-02-27 15:30:23
+(epstopdf)                    size: 34981 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig/Terzan5_s000m_8_harm_m
+akalu-eps-converted-to.pdf fig/Terzan5_s000m_8_harm_makalu.eps>
+(epstopdf)             \includegraphics on input line 409.
+Package epstopdf Info: Output file is already uptodate.
+
+<fig/Terzan5_s000m_8_harm_makalu-eps-converted-to.pdf, id=43, 578.16pt x 433.62
+pt>
+File: fig/Terzan5_s000m_8_harm_makalu-eps-converted-to.pdf Graphic file (type p
+df)
+ <use fig/Terzan5_s000m_8_harm_makalu-eps-converted-to.pdf>
+Package pdftex.def Info: fig/Terzan5_s000m_8_harm_makalu-eps-converted-to.pdf u
+sed on input line 409.
+(pdftex.def)             Requested size: 234.87749pt x 176.15768pt.
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 409--410
+ [][] 
+ []
+
+
+Overfull \hbox (142.13503pt too wide) in paragraph at lines 423--431
+ [] 
+ []
+
+(./bib.tex)
+
+Package natbib Warning: There were undefined citations.
+
+[6 <./fig/accelsearch_diagram-eps-converted-to.pdf>] [7 <./fig/makalu_runtime_o
+verview_1_harm-eps-converted-to.pdf> <./fig/makalu_runtime_overview_16_harm-eps
+-converted-to.pdf> <./fig/makalu_speed_up-eps-converted-to.pdf> <./fig/zuul05_s
+peed_up-eps-converted-to.pdf> <./fig/sh_machine_speed_up-eps-converted-to.pdf>]
+[8
+
+ <./fig/Terzan5_s000m_8_harm_makalu-eps-converted-to.pdf>]
+(./Accelerating_Searches_for_Binary_Pulsars.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2798 strings out of 493488
+ 37822 string characters out of 3141326
+ 96698 words of memory out of 3000000
+ 6060 multiletter control sequences out of 15000+200000
+ 12998 words of font info for 54 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,13n,27p,283b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/t
+exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texl
+ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive
+/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/20
+12/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/201
+2/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2012/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2012/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2012/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2012/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2012/texmf-
+dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Accelerating_Searches_for_Binary_Pulsars.pdf (8 pages, 436843
+ bytes).
+PDF statistics:
+ 385 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
